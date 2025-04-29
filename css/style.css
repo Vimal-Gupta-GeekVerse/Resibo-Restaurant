@@ -488,7 +488,7 @@ header {
 
 /* Chef Recommends Section CSS Start */
 .ChefRecommends {
-  background: url('../image/ChefRecommends.png') no-repeat center;
+  background: url('../image/ChefRecommends.webp') no-repeat center;
   background-size: cover;
 }
 .BefAftStyle {
@@ -645,7 +645,7 @@ header {
   color: black;
 }
 .HowTo {
-  background: url('../image/Howto.png') no-repeat center;
+  background: url('../image/Howto.webp') no-repeat center;
   background-size: cover;
 }
 
@@ -752,7 +752,7 @@ header {
 .Testimonial {
   color: #ffffff;
   text-align: center;
-  background: url('../image/47795c37b81cd9d6279f90c97990942d.jfif') no-repeat
+  background: url('../image/47795c37b81cd9d6279f90c97990942d.webp') no-repeat
     center;
   background-size: cover;
 }
@@ -862,7 +862,7 @@ header {
 
 /* We're The Great Team! Section Css start */
 .WeAreTheGreatTeam {
-  background: url('../image/weAretheGreatTeam.png') no-repeat center;
+  background: url('../image/weAretheGreatTeam.webp') no-repeat center;
   background-size: cover;
 }
 .WeAreTheGreatTeam .container {
@@ -1034,7 +1034,7 @@ textarea {
   color: #ffffff;
 }
 .Brunches {
-  background: url('../image/backImageNew\ \(1\).jfif') no-repeat center;
+  background: url('../image/backImageNew\ \(1\).webp') no-repeat center;
   background-size: cover;
 }
 
@@ -1098,7 +1098,7 @@ textarea {
 
 /* Dinner Section Css Start */
 .Dinner {
-  background: url('../image/backImageNew\ \(2\).png') no-repeat center;
+  background: url('../image/backImageNew\ \(2\).webp') no-repeat center;
   background-size: cover;
 }
 /* Dinner Section Css End */
@@ -1133,7 +1133,7 @@ textarea {
 
 /* Sweet Delight Section css start  */
 .SweetDelight {
-  background: url('../image/backImageNew\ \(1\).png') no-repeat center;
+  background: url('../image/backImageNew\ \(1\).webp') no-repeat center;
   background-size: cover;
 }
 /* Sweet Delight Section css End  */
@@ -1230,7 +1230,7 @@ textarea {
       rgba(0, 0, 0, 0.4),
       rgba(0, 0, 0, 0.4)
     ),
-    url('../image/3a3505673bbef68295ff0a06bfd32fcc.png');
+    url('../image/3a3505673bbef68295ff0a06bfd32fcc.webp');
   background-position: center, center;
   background-repeat: no-repeat, no-repeat;
   background-size: cover, cover;
